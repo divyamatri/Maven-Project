@@ -1,0 +1,5 @@
+1. Select * from Employee;
+
+2. Select * from Employee where "Java" IN technology;
+
+3. Select * from Employee where dept="QA";
